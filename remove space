@@ -1,0 +1,3 @@
+str=input()
+str_no_space=str.replace(" ","")
+print(str_no_space)
