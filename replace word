@@ -1,0 +1,5 @@
+str=input("enter a string:")
+old_word =input()
+new_word =input()
+str_no_space=str.replace(old_word,new_word)
+print(str_no_space)
